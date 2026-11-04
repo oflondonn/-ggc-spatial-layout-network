@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "registry": "Akure South Digital Land Layout Registry",
+  "sole_custodian": "Nojimu Oluwagbenga Jimoh",
+  "identity_lock": "JIMOH-NOJIMU-OLUWAGBENGA-1986",
+  "technical_standard": "AI1up Precision Infrastructure",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "ALAGBAKA-EXT-001",
+      "geometry": { "type": "Polygon", "coordinates": [[[5.2415, 7.2721], [5.2485, 7.2721], [5.2485, 7.2655], [5.2415, 7.2655], [5.2415, 7.2721]]] },
+      "properties": { "zone": "Alagbaka Extension", "boundary_lock": true, "cement_cap_ngn": 13000 }
+    },
+    {
+      "type": "Feature",
+      "id": "OBA-ILE-AXIS-082",
+      "geometry": { "type": "Polygon", "coordinates": [[[5.2610, 7.2910], [5.2690, 7.2910], [5.2690, 7.2840], [5.2610, 7.2840], [5.2610, 7.2910]]] },
+      "properties": { "zone": "Oba-Ile Grid", "boundary_lock": true, "vibrated_block_9inch_ngn": 600 }
+    }
+  ]
+}
