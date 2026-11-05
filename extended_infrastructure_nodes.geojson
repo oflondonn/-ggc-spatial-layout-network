@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "registry_name": "Ondo State Extended Infrastructure & Material Registry",
+  "sole_custodian": "Nojimu Oluwagbenga Jimoh",
+  "identity_lock": "JIMOH-NOJIMU-OLUWAGBENGA-1986",
+  "technical_standard": "AI1up Precision Infrastructure",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "ENERGY-ALAGBAKA-001",
+      "geometry": { "type": "Point", "coordinates": [5.2450, 7.2680] },
+      "properties": { "node": "Alagbaka Solar-Micro Grid", "energy_lock_active": true }
+    },
+    {
+      "type": "Feature",
+      "id": "MINERAL-QUARRY-042",
+      "geometry": { "type": "Polygon", "coordinates": [[[5.3100, 7.2500], [5.3200, 7.2500], [5.3200, 7.2400], [5.3100, 7.2400], [5.3100, 7.2500]]] },
+      "properties": { "node": "Akure South Granite Quarry Node", "telemetry_verified": true }
+    }
+  ]
+}
