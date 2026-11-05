@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "registry_name": "Ondo State Agro-Corridor Layout Registry",
+  "sole_custodian": "Nojimu Oluwagbenga Jimoh",
+  "identity_lock": "JIMOH-NOJIMU-OLUWAGBENGA-1986",
+  "technical_standard": "AI1up Precision Logistics",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "AGRO-AKURE-SOUTH-001",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [[5.1200, 7.2100], [5.1350, 7.2100], [5.1350, 7.1950], [5.1200, 7.1950], [5.1200, 7.2100]]
+        ]
+      },
+      "properties": {
+        "cluster_name": "Alape Agro-Outgrower Cluster A",
+        "primary_crop": "Cassava / Oil Palm Blend",
+        "transit_lock_active": true,
+        "audited_yield_metric_tons": 450,
+        "factory_offtaker_id": "ALAPE-GRID-NODE-01"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AGRO-OBA-ILE-OUTGROW-014",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [[5.2710, 7.2750], [5.2820, 7.2750], [5.2820, 7.2610], [5.2710, 7.2610], [5.2710, 7.2750]]
+        ]
+      },
+      "properties": {
+        "cluster_name": "Oba-Ile Maize & Grain Cluster",
+        "primary_crop": "Commercial Yellow Maize",
+        "transit_lock_active": true,
+        "audited_yield_metric_tons": 280,
+        "factory_offtaker_id": "AKURE-INDUSTRIAL-ZONE"
+      }
+    }
+  ]
+}
