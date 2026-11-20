@@ -1,0 +1,49 @@
+          [5.1950, 7.2000],
+          [5.2350, 7.1920],
+          [5.2380, 7.2220],
+          [5.1980, 7.2280],
+          [5.1950, 7.2000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "layer": "Priority_Community_Anchor",
+        "name": "Oke Aro & Okebola Reservoir Hub (ODWC / AfDB Core Node)",
+        "category": "Water Infrastructure Anchor",
+        "priority": "Tier 1 Supply Node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.1865, 7.2475]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "layer": "Priority_Community_Anchor",
+        "name": "Iluabo - Eleyewo Community Market, Clinic & School Node",
+        "category": "Primary Health Centre, Public School & Daily Market",
+        "priority": "Tier 1 Solar Mini-Grid & Water Kiosk Anchor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3260, 7.2715]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "layer": "Priority_Community_Anchor",
+        "name": "Ijoka - Oda Road Market, Health Post & School Cluster",
+        "category": "Community Market, Primary School & Maternal Clinic",
+        "priority": "Tier 1 Tertiary Pipe & Transformer Anchor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.2160, 7.2110]
+      }
+    }
+  ]
+}
